@@ -46,9 +46,9 @@ const CONFIG = {
     },
   },
   googleSearchConsole: {
-    enable: false,
+    enable: true,
     config: {
-      siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
+      siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "G-WRTMK8G54F",
     },
   },
   naverSearchAdvisor: {
