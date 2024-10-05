@@ -31,7 +31,7 @@ const CONFIG = {
   link: "https://kwondoll.kro.kr",
   since: 2020, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://icon.kwondoll2.kro.kr/", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://kwondolllfg-ak3nk386q-kwondolls-projects.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
