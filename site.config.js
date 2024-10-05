@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `권돌 유튜브`,
-      href: "https://www.youtube.com/@%EA%B6%8C%EB%8F%8C",
+      href: "https://www.youtube.com/@%EA%B6%8C%EB%8F%8C?sub_confirmation=1",
     },
     {
       name: `권돌 텔레그램`,
